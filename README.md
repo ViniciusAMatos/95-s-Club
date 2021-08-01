@@ -65,17 +65,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h1 align="center"><img alt="Inicio" src="./imagens/Primeira Tela - Relatório.png" /></h1>
 
-<h1 align="center"><img alt="Inicio" src="./imagens/Primeira Tela - Alternar Tela.jpeg" /></h1>
+<h1 align="center"><img alt="Inicio" src="./imagens/Primeira Tela - Alternar Tela.png" /></h1>
 
-<h1 align="center"><img alt="Inicio" src="./imagens/Primeira Tela - Cadastro Funcionário.jpeg" /></h1>
+<h1 align="center"><img alt="Inicio" src="./imagens/Primeira Tela - Cadastro Funcionário.png" /></h1>
 
 <h1 align="center"><img alt="Inicio" src="./imagens/Segunda Tela - Cadastrar.png" /></h1>
 
 <h1 align="center"><img alt="Inicio" src="./imagens/Segunda Tela - Recarregar.png" /></h1>
 
-<h1 align="center"><img alt="Inicio" src="./imagens/Segunda Tela - Opcao Vendas.jpeg" /></h1>
+<h1 align="center"><img alt="Inicio" src="./imagens/Segunda Tela - Opcao Vendas.png" /></h1>
 
-<h1 align="center"><img alt="Inicio" src="./imagens/Segunda Tela - Recarregar Credito.jpeg" /></h1>
+<h1 align="center"><img alt="Inicio" src="./imagens/Segunda Tela - Recarregar Credito.png" /></h1>
+
+<h1 align="center"><img alt="Inicio" src="./imagens/Terceira Tela.png" /></h1>
+
+<h1 align="center"><img alt="Inicio" src="./imagens/Terceira Tela - Compra Bebidas.png" /></h1>
 
 <a id="autor"></a>
 ## Autor
